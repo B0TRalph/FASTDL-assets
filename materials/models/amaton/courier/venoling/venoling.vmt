@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		"models/amaton/courier/venoling/venoling"
+	"$normalmap"		"models/amaton/courier/venoling/venoling_normal"
+	
+}
